@@ -1,0 +1,8 @@
+{
+  "name": "insta-share",
+  "app_id": "4942affd",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}

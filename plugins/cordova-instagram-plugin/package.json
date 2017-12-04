@@ -1,0 +1,61 @@
+{
+  "_from": "cordova-instagram-plugin@^0.5.5",
+  "_id": "cordova-instagram-plugin@0.5.5",
+  "_inBundle": false,
+  "_integrity": "sha1-a0pmqjklJNoLULUOdzKC9bIq1HA=",
+  "_location": "/cordova-instagram-plugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cordova-instagram-plugin@^0.5.5",
+    "name": "cordova-instagram-plugin",
+    "escapedName": "cordova-instagram-plugin",
+    "rawSpec": "^0.5.5",
+    "saveSpec": null,
+    "fetchSpec": "^0.5.5"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-instagram-plugin/-/cordova-instagram-plugin-0.5.5.tgz",
+  "_shasum": "6b4a66aa392524da0b50b50e773282f5b22ad470",
+  "_spec": "cordova-instagram-plugin@^0.5.5",
+  "_where": "C:\\Users\\tomorth\\insta-share",
+  "author": {
+    "name": "Vlad Stirbu"
+  },
+  "bugs": {
+    "url": "https://github.com/vstirbu/InstagramPlugin/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-instagram-plugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Share the content of a canvas element or a dataUrl encoded image using the Instagram application for iOS and Android.",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "homepage": "https://github.com/vstirbu/InstagramPlugin#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "name": "cordova-instagram-plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vstirbu/InstagramPlugin.git"
+  },
+  "version": "0.5.5"
+}
